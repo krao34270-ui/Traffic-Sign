@@ -1,0 +1,54 @@
+OutputIndex,ClassId,Name
+0,0,Speed limit (5km/h)
+1,1,Speed limit (15km/h)
+2,2,Speed limit (30km/h)
+3,3,Speed limit (40km/h)
+4,4,Speed limit (50km/h)
+5,5,Speed limit (60km/h)
+6,6,Speed limit (70km/h)
+7,7,speed limit (80km/h)
+8,8,Dont Go straight or left
+9,10,Dont Go straight
+10,11,Dont Go Left
+11,12,Dont Go Left or Right
+12,13,Dont Go Right
+13,14,Dont overtake from Left
+14,15,No Uturn
+15,16,No Car
+16,17,No horn
+17,18,Speed limit (40km/h)
+18,20,Go straight or right
+19,21,Go straight
+20,22,Go Left
+21,23,Go Left or right
+22,24,Go Right
+23,26,keep Right
+24,27,Roundabout mandatory
+25,28,watch out for cars
+26,29,Horn
+27,30,Bicycles crossing
+28,31,Uturn
+29,32,Road Divider
+30,34,Danger Ahead
+31,35,Zebra Crossing
+32,36,Bicycles crossing
+33,37,Children crossing
+34,38,Dangerous curve to the left
+35,39,Dangerous curve to the right
+36,40,Unknown1
+37,41,Unknown2
+38,42,Unknown3
+39,43,Go right or straight
+40,44,Go left or straight
+41,45,Unknown4
+42,46,ZigZag Curve
+43,47,Train Crossing
+44,48,Under Construction
+45,49,Unknown5
+46,50,Fences
+47,51,Heavy Vehicle Accidents
+48,52,Unknown6
+49,54,No stopping
+50,55,No entry
+51,56,Unknown7
+52,57,Unknown8
